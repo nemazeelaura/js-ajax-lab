@@ -56,6 +56,9 @@ ul {
   max-width: 300px;
   margin: 2rem auto;
 }
+#books {
+  width: 100%;
+}
 
 img {
   max-width: 75%;
